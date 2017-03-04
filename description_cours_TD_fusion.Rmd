@@ -1,0 +1,13 @@
+---
+title: "cours_TD_fusion"
+output: html_document
+---
+
+### Author
+
+- Lucas Regnaut
+
+
+### Description
+
+ENQ101 : TD fusion
